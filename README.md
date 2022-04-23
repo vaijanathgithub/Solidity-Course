@@ -1,2 +1,2 @@
 # Solidity-Course
-Here I demonstrate Solidity Programming from Basic to Advance Levels
+Here I demonstrate Solidity Programming from Basics to Advance Levels
